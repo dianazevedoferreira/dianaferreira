@@ -4,7 +4,7 @@ title: About me
 subtitle: Doctoral researcher at University of Minho
 ---
 
-Currently working as researcher in the Knowledge Engineering Group (KEG) at the University of Minho’s [Algoritmi Research Center] (http://algoritmi.uminho.pt/). Invited Assistant Professor, teaching Learning and Knowledge Extraction Systems. Everlasting interests in eHealth, Health Information Systems, Artficial Intelligence, Machine Learning, Data Mining and Interoperability in the healthcare domain.
+Currently working as researcher in the Knowledge Engineering Group (KEG) at the University of Minho’s [Algoritmi Research Center](http://algoritmi.uminho.pt/). Invited Assistant Professor, teaching Learning and Knowledge Extraction Systems. Everlasting interests in eHealth, Health Information Systems, Artficial Intelligence, Machine Learning, Data Mining and Interoperability in the healthcare domain.
 
 
 
