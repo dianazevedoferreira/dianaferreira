@@ -25,7 +25,7 @@ navbar-links:
     - Education: "http://deanattali.com/beautiful-jekyll/"
     - Experience: "http://www.markdowntutorial.com/"
     - CV: "http://www.markdowntutorial.com/"
-  Publications: "http://deanattali.com"
+  Publications: "publications"
   Teaching: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
