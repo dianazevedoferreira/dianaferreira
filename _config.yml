@@ -22,10 +22,10 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "aboutme"
   Background:
-    - Education: "http://deanattali.com/beautiful-jekyll/"
-    - Experience: "http://www.markdowntutorial.com/"
+    - Education: "education"
+    - Experience: "experience"
     - CV: "cv_dianaferreira6.pdf"
-  Publications: "publications"
+  Publications: "publications2"
   Teaching: "publications2"
 
 # Image to show in the navigation bar - image must be a square (width = height)
