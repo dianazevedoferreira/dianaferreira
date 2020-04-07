@@ -6,7 +6,7 @@ title: Publications
 
 ### Book Chapters
 
-1. Sousa, Regina; Ferreira, Diana; Machado, José; Abelha, António. 2020. ***"Step Towards Monitoring Intelligent Agents in Healthcare Information Systems"***. In Advances in Intelligent Systems and Computing. Springer.
+1. Sousa, Regina; <span style="color:blue"> Ferreira, Diana  text</span>; Machado, José; Abelha, António. 2020. ***"Step Towards Monitoring Intelligent Agents in Healthcare Information Systems"***. In Advances in Intelligent Systems and Computing. Springer.
 
 2. Ferreira, Diana; Neto, Cristiana; Machado, José; Abelha, António. 2019. ***"Steps Towards Online Monitoring Systems and Interoperability"***. In New Knowledge in Information Systems and Technologies, 527-536. Springer International Publishing. http://dx.doi.org/10.1007/978-3-030-16187-3_51.
 
@@ -30,4 +30,3 @@ http://dx.doi.org/10.4018/978-1-5225-2851-7.ch013.
 
 2. Miranda, Rui; Ferreira, Diana; Abelha, Antonio; Machado, Jose. 2019. ***"Intelligent Nutrition in Healthcare and Continuous Care"***. In 2019 International Conference in Engineering Applications (ICEA): International Conference Engineering Applications – ICEA, Açores, Portugal. IEEE.
 
-<span style="color:blue">some *blue* text</span>
