@@ -29,3 +29,5 @@ http://dx.doi.org/10.4018/978-1-5225-2851-7.ch013.
 1. Ferreira, Diana; Peixoto, Hugo; Machado, Jose; Abelha, Antonio. 2018. ***"Predictive Data Mining in Nutrition Therapy"***. In 2018 13th APCA International Conference on Control and Soft Computing (CONTROLO): 13th APCA International Conference on Control and Soft-Computing. IEEE.
 
 2. Miranda, Rui; Ferreira, Diana; Abelha, Antonio; Machado, Jose. 2019. ***"Intelligent Nutrition in Healthcare and Continuous Care"***. In 2019 International Conference in Engineering Applications (ICEA): International Conference Engineering Applications – ICEA, Açores, Portugal. IEEE.
+
+<span style="color:blue">some *blue* text</span>
