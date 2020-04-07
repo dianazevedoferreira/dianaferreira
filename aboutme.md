@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Doctoral researcher at University of Minho
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Currently working as Researcher of the Knowledge Engineering Group at the University of Minho’s Algoritmi Research Center. Invited Assistant Professor, teaching Learning and Knowledge Extraction Systems. Everlasting interests in eHealth, Health Information Systems, Artficial Intelligence, Machine Learning, Data Mining and Interoperability in the healthcare domain.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### my history
+### Interests and Skills
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
