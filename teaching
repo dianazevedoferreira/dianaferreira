@@ -1,0 +1,87 @@
+---
+layout: page
+title: SAEC
+subtitle: Sistemas de Aprendizagem e Extracção de Conhecimento
+---
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      <h4> <a href="" target="_blank">PL01 - Data Mining e CRISP-DM</a></h4>
+      <p><i class="fa fa-calendar"></i> 11 Fev 2020</p>
+      <ul>
+          <li> <a href="../../files/saec/pl01/PL01.pdf" target="_blank"> Slides </a> </li>
+          <li> <a href="../../files/saec/pl01/FE01.pdf" target="_blank"> Ficha de Exercícios </a> </li>
+      </ul>
+      <p><strong> tópicos: </strong> Data Mining | CRISP-DM</p>
+
+      <hr>
+
+      <h4> <a href="" target="_blank">PL02 - Indrodução ao Weka</a></h4>
+      <p><i class="fa fa-calendar"></i> 18 Fev 2020</p>
+      <ul>
+        <li> <a href="../../files/saec/pl02/pl02.pdf" target="_blank"> Slides </a> </li> 
+        <li> <a href="../../files/saec/pl02/fe02.pdf" target="_blank"> Ficha de Exercícios </a> </li>  
+      </ul>
+      <p><strong> tópicos: </strong> Weka | Classificação</p>
+
+      <hr>
+
+      <h4> <a href="" target="_blank">PL03 - Explorar o Weka</a></h4>
+      <p><i class="fa fa-calendar"></i> 03 Mar 2020</p>
+      <ul>
+         <li> <a href="../../files/saec/pl03/pl03.pdf" target="_blank"> Slides </a> </li>
+         <li> <a href="../../files/saec/pl03/f3.pdf" target="_blank"> Ficha de Exercícios </a> </li>
+         <li> <a href="../../files/saec/pl03/chapter2.pdf" target="_blank"> Material de Apoio </a> </li>
+      </ul>
+      <p><strong> tópicos: </strong> Database | Datawarehouse | Dataset | Weka | Classificação</p>
+
+      <hr>
+
+      <h4> <a href="" target="_blank">PL04 - Explorar o Weka</a></h4>
+      <p><i class="fa fa-calendar"></i> 17 Mar 2020</p>
+      <ul>
+        <li> <a href="../../files/saec/pl04/fe04pt.pdf" target="_blank"> Ficha de Exercícios </a> </li> 
+        <li> <a href="../../files/saec/pl04/PL04_Material.rar" target="_blank"> Material de Apoio </a> </li>
+      </ul>
+      <p><strong> tópicos: </strong> Weka | CRISP-DM</p>
+
+      <hr>
+
+      <h4> <a href="" target="_blank">PL05 - RapidMiner - Correlações</a></h4>
+      <p><i class="fa fa-calendar"></i> 24 Mar 2020</p>
+      <ul>
+        <li> <a href="../../files/saec/pl05/pl05pt.pdf" target="_blank"> Slides </a> </li>
+        <li> <a href="../../files/saec/pl05/fe05pt.pdf" target="_blank"> Ficha de Exercícios </a> </li>  
+        <li> <a href="../../files/saec/pl05/PL05_Material.rar" target="_blank"> Material de Apoio </a> </li>
+      </ul>
+      <p><strong> tópicos: </strong> RapidMiner | Correlações</p>
+
+      <hr>
+
+      <h4> <a href="" target="_blank">PL06 - RapidMiner - Regras de Associação</a></h4>
+      <p><i class="fa fa-calendar"></i> 31 Mar 2020</p>
+      <ul>
+        <li> <a href="../../files/saec/pl06/pl06pt.pdf" target="_blank"> Slides </a> </li>
+        <li> <a href="../../files/saec/pl06/fe06pt.pdf" target="_blank"> Ficha de Exercícios </a> </li>
+        <li> <a href="../../files/saec/pl06/PL06_Material.rar" target="_blank"> Material de Apoio </a> </li>
+      </ul>
+      <p><strong> tópicos: </strong> RapidMiner | Regras de Associação</p>
+
+      <hr>
+
+      <h4> <a href="" target="_blank">PL07 - RapidMiner - k-Means Clustering</a></h4>
+      <p><i class="fa fa-calendar"></i> 14 Abr 2020</p>
+      <ul>
+        <li> <a href="../../files/saec/pl07/pl07pt.pdf" target="_blank"> Slides </a> </li>
+        <li> <a href="../../files/saec/pl07/fe07pt.pdf" target="_blank"> Ficha de Exercícios </a> </li>
+        <li> <a href="../../files/saec/pl07/pl07.dataset.csv" target="_blank"> Material de Apoio </a> </li> 
+      </ul>
+      <p><strong> tópicos: </strong> RapidMiner | Clustering | k-Means</p>
+
+      <hr>
+	    
+    </div>
+  </div>
+</div>
